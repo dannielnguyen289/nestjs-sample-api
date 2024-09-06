@@ -1,0 +1,8 @@
+{
+  "code": 1,
+  "error": "Business Logical Error",
+  "message": "Item with id [b633e98a-df9a-418a-8d29-fdda0e771a0a] does not exist.",
+  "data": {
+    "id": "b633e98a-df9a-418a-8d29-fdda0e771a0a"
+  }
+}

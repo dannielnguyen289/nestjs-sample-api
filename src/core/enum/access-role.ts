@@ -1,0 +1,7 @@
+export enum ACCESS_ROLE {
+  MASTER = 'MASTER',
+  OWNER = 'OWNER',
+  USER = 'USER',
+  EVERYONE = 'EVERYONE',
+  ANONYMOUS = 'ANONYMOUS'
+}

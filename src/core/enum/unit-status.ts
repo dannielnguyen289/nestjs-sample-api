@@ -1,0 +1,6 @@
+export enum UNIT_STATUS {
+  READY = 'READY',
+  ACTIVE = 'ACTIVE',
+  LOCKED = 'LOCKED',
+  CLOSED = 'CLOSED'
+}

@@ -1,0 +1,7 @@
+{
+  "message": [
+    "id must be a UUID"
+  ],
+  "error": "Bad Request",
+  "statusCode": 400
+}
